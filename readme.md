@@ -1,5 +1,7 @@
 # Ecommerce Restaurant Pizza Card
 
+![pizza](https://github.com/zulfiqar313/beautiful-card-design/assets/69974518/0e8228cd-a6f9-4079-bc78-296bfb5d9c04)
+
 > Beautiful Design Illustrations for a Pizza Store using HTML and CSS Flexbox.
 
 This project showcases a visually appealing card design for an ecommerce restaurant, specifically a pizza store. The design is implemented using HTML and CSS with a focus on Flexbox for layout.
